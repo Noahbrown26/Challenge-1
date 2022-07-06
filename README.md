@@ -7,3 +7,11 @@ For this challenge, we had to meet the acceptance criteria for making a webpage 
 In this code you will find Semantic HTML elements, descriptive alt attributes, as well as HTML that is in organized sequential structure. 
 
 This challenge was done using a starter template
+
+
+View the web-page here
+
+![](assets/accessibilitychallenge.PNG)
+
+https://noahbrown26.github.io/Challenge-1/
+
