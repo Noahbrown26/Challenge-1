@@ -1,6 +1,6 @@
 # Challenge-1
 
-This is the first challenge of my UW Coding bootcamp Journey.
+This is the first challenge of my UW Coding bootcamp Curriculum.
 
 For this challenge, we had to meet the acceptance criteria for making a webpage more optimized by following basic accessibility standards
 
